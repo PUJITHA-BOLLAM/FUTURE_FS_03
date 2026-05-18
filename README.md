@@ -17,7 +17,6 @@
   - JAVASCRIPT
   - CANVA
 
-  ## Project Structure
  ## Project Structure
 ```text
 business_web/
@@ -38,6 +37,6 @@ business_web/
    This website helps the business to improve its online presence,attracts more customers and provides services in a modern online way.
   ## Deployment Link
   ## Author
-  Pujitha Bollam
+ ### Pujitha Bollam
   
 
