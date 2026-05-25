@@ -1,4 +1,4 @@
-# FUTURE_FS_02
+# FUTURE_FS_03
   # Local Business Website &amp; Live Pitch Project
  A Business Website and Live pitch of the project ,which helps to a local business to enhance their communication with the customers,business growth and online presence.
  ## Features
@@ -35,6 +35,10 @@ business_web/
   
   ## Business Pitch
    This website helps the business to improve its online presence,attracts more customers and provides services in a modern online way.
+   Moreover,people who are not able to go and buy everything ,needs this website to know the menu,contact details and features of the restaurant from the reviews given,details provided in the website,even from their work place or home.
+        - Easy Access to information
+        - Visual preview of ambience
+        - Convenient Ordering
   ## Deployment Link
   ## Author
  ### Pujitha Bollam
