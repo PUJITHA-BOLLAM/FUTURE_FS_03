@@ -23,7 +23,9 @@ section{
     justify-content:space-between;
     align-items:center;
     padding:20px 8%;
-    background:black;
+    background-image:url('images/star.jpg');
+    background-size:cover;
+    background-position:center;
     position:sticky;
     top:0;
 }
