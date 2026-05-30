@@ -23,9 +23,7 @@ section{
     justify-content:space-between;
     align-items:center;
     padding:20px 8%;
-    background-image:url('images/star.jpg');
-    background-size:cover;
-    background-position:center;
+    background:black;
     position:sticky;
     top:0;
 }
@@ -34,6 +32,7 @@ section{
     color:#facc15;
     font-size:50px;
     font-family:'Times New Roman',Times,serif;
+    text-shadow:0 0 5px rgba(255,215,0,0.7);
 }
 
 .nav-links{
@@ -68,9 +67,7 @@ section{
 }
 
 .overlay{
-    background-image:url('images/star.jpg');
-    background-size:cover;
-    background-position:center;
+    background:black;
     padding:40px;
     border-radius:15px;
     text-align:center;
@@ -102,9 +99,7 @@ section{
 /* MENU & SPECIAL DISHES */
 
 .special-section{
-    background-image:url('images/star.jpg');
-    background-size:cover;
-    background-position:center;
+    background:black;
     padding:60px 8%;
     text-align:center;
 }
@@ -157,15 +152,11 @@ section{
 /*HOME & ABOUT*/
 .page-section{
     padding:60px 8%;
-    background-image:url('images/star.jpg');
-    background-size:cover;
-    background-position:center;
+    background:black;
 }
 #page-section{
-    background-image:url('images/bac.jpg');
-    background-size:cover;
-    background-position:center;
-}
+    background:black;
+    }
 .page-section h1{
     margin-bottom:20px;
     font-size:45px;
