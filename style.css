@@ -59,7 +59,9 @@ section{
 
 .hero{
     min-height:100vh;
-    background:black;
+    background-image:url('images/star.jpg');
+    background-size:cover;
+    background-position:center;
     display:flex;
     justify-content:center;
     align-items:center;
